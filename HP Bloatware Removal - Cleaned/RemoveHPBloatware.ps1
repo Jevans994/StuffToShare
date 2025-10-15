@@ -1,6 +1,6 @@
 ##############################
 # Authored by: Jesse Ev
-# Git: Jevans994 - url: 
+# Git: Jevans994 - url: https://github.com/Jevans994/StuffToShare/tree/main/HP%20Bloatware%20Removal%20-%20Cleaned
 # Create date: 15/10/2025
 # Purpose: Creates a Masterlist of HP apps to be removed, Determines the correct method for uninstall
 # and removes the applications - The list order matters, removing from top to bottom as some apps have
@@ -201,5 +201,6 @@ else {
     # Intune tag, remove if your not deploying this via intune its not needed.
     New-Item -Path "$($LogPath)\RemoveHPBloatware.tag" -ItemType File -Force
 }
+
 
 Stop-Transcript
