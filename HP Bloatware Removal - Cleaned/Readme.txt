@@ -1,6 +1,6 @@
 
  Authored by: Jesse Ev
- Git: Jevans994 - url: 
+ Git: Jevans994 - url: https://github.com/Jevans994/StuffToShare/tree/main/HP%20Bloatware%20Removal%20-%20Cleaned
  Create date: 15/10/2025
  Purpose: Creates a Master list of HP apps to be removed, Determines the correct method for uninstall
  and removes the applications - The list order matters, removing from top to bottom as some apps have
@@ -13,3 +13,4 @@
  as the running script, this handles the uninstall for HP Connection Optimizer if present.
 
  
+
